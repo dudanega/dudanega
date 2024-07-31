@@ -1,16 +1,16 @@
-## Hi there 👋
+bem vindo ao meu perfil
 
-<!--
-**dudanega/dudanega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Duda nega
 
-Here are some ideas to get you started:
+Estou visitando a [Alura] (https://wwww.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou me desenvolvendo em linguagem JavaScript
+
+utulizo para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+você entra em contato comigo 📫
+00001120430811sp@al.educacao.sp.gov.br
+
+@dudanega
+
+![](https://media1.tenor.com/m/XZCT29ngNzAAAAAC/dogs-hot.gif)
